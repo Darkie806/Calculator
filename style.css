@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url(img2.jpg);
+    background: url(img1.jpg);
     background-size: cover;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -64,4 +64,5 @@ button:hover {
     background: #2a9d8f;
     grid-column: span 4;
     border-radius: 20px;
+
 }
